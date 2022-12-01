@@ -1,0 +1,1 @@
+scan#, pos ind, pos in view, #peaks, excitability, stim delay, rise time, rise time std, APD30, APD30 std, APD50, APD50 std, APD80, APD80 std, APDmxr, APDmxr std, tri, tri std, flag
