@@ -40,7 +40,7 @@ To run the logistic regression analysis, please download the script file 'Logist
 This python packages and sample data were first uploaded on Dec 12th, 2022
 
 ## Credits
-The software packages were originally written in Interactive Data languages (https://www.l3harrisgeospatial.com/) by Bum-Rak Choi and Taeyun Kim. Allison Navarrete-Welton ported the IDL codes into python in 2022.
+The software packages were originally written in Interactive Data languages (https://www.l3harrisgeospatial.com/) by Bum-Rak Choi and Taeyun Kim. This package in IDL is available at OMpro githup site (https://github.com/bumrak/OMPro). Allison Navarrete-Welton ported the IDL codes into python in 2022. 
 
 ## License
 
